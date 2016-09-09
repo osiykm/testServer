@@ -1,1 +1,4 @@
-*.iml
+/.idea/*
+/target
+/server.iml
+/remindme.server.iml
